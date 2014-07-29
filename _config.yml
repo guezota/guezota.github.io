@@ -1,6 +1,6 @@
-title:            Site Title
-description:      Describe your website here.
-logo:             site-logo.png
+title:            guezota
+description:      Developing something.
+logo:             guezota-site-logo.png
 disqus_shortname:
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
@@ -9,9 +9,9 @@ search:           true
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         bio-photo.jpg
-  email:          you@email.com
+  name:           guezota
+  avatar:         guezota-bio-photo.jpg
+  email:          guezota@guezota.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:
   facebook:
@@ -39,8 +39,8 @@ links:
     url: /articles/
   - title: Theme Setup
     url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
+  - title: maiquemadeira
+    url: http://maiquemadeira.com
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
