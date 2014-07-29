@@ -22,7 +22,7 @@ I had help along the way, and even then I felt overwhelmed most of the time. Sti
 Some of the places where I got my help:
 
 - [Using Jekyll with Pages](https://help.github.com/articles/using-jekyll-with-pages)
-- [Setting up Github pages](http://scottduke.github.io/posts/2014/07/20/Github-pages/)
+- [Setting up Github Pages](http://scottduke.github.io/posts/2014/07/20/Github-pages/)
 - [So Simple Theme Setup](http://mmistakes.github.io/so-simple-theme/theme-setup/)
 - [Jekyll Documentation](http://jekyllrb.com/docs/home/)
 - [GitHub Pages Help](https://help.github.com/categories/20/articles)
