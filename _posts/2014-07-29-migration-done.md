@@ -10,7 +10,7 @@ share: true
 ---
 
 <figure>
-  <a href="http://guezota.github.io/"><img src="http://guezota.github.com/images/about-guezota.png" alt="image" /></a>
+  <img src="http://guezota.github.com/images/about-guezota.png" alt="image" />
   <figcaption><a href="http://guezota.github.io">Moved.</a></figcaption>
 </figure>
 
