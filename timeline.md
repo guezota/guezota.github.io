@@ -18,12 +18,5 @@ So far there's not much to show.
 
 ###Todo###
 
-~~Idea for app~~
+- Idea for app
 - Do app
-
-
-
-
-----
-
-You can find the real me on [Twitter](https://twitter.com/maique) and [GitHub](https://github.com/maique).
