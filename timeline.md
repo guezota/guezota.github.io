@@ -10,7 +10,7 @@ image:
   creditlink: http://maiquemadeira.com
 ---
 
-What's cooking ?
+###What's cooking ?###
 
 This is where I'll keep track of the app's progress. If you just want to know how it's moving along, this is the place to come, without all the messy posts in the way.  
 
@@ -18,7 +18,7 @@ So far there's not much to show.
 
 ###Todo###
 
-- ~~Idea for app~~
+~~Idea for app~~
 - Do app
 
 
