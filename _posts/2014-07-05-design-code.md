@@ -5,7 +5,7 @@ description: "Design+Code."
 modified: 2014-07-05
 category: articles
 tags: [post]
-comments: true
+comments: false
 share: true
 ---
 
