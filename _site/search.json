@@ -1,0 +1,91 @@
+[
+	
+		{
+		  "title"      : "Vacaciones Coding",
+		  "category"   : "articles",
+		  "url"        : "/articles/vacaciones-coding/",
+		  "date"       : "2014-07-31 00:00:00 -0400",
+		  "shortdate"  : "July 31, 2014"
+		} ,
+	
+		{
+		  "title"      : "The Idea",
+		  "category"   : "articles",
+		  "url"        : "/articles/the-idea/",
+		  "date"       : "2014-07-30 00:00:00 -0400",
+		  "shortdate"  : "July 30, 2014"
+		} ,
+	
+		{
+		  "title"      : "The best resources for learning iOS design and Xcode",
+		  "category"   : "articles",
+		  "url"        : "/articles/weekly-inspiration/",
+		  "date"       : "2014-07-29 00:00:00 -0400",
+		  "shortdate"  : "July 29, 2014"
+		} ,
+	
+		{
+		  "title"      : "Migration Done",
+		  "category"   : "articles",
+		  "url"        : "/articles/migration-done/",
+		  "date"       : "2014-07-29 00:00:00 -0400",
+		  "shortdate"  : "July 29, 2014"
+		} ,
+	
+		{
+		  "title"      : "Sketch Done",
+		  "category"   : "articles",
+		  "url"        : "/articles/sketch-done/",
+		  "date"       : "2014-07-06 00:00:00 -0400",
+		  "shortdate"  : "July 06, 2014"
+		} ,
+	
+		{
+		  "title"      : "Design+Code Done",
+		  "category"   : "articles",
+		  "url"        : "/articles/design-code-done/",
+		  "date"       : "2014-07-06 00:00:00 -0400",
+		  "shortdate"  : "July 06, 2014"
+		} ,
+	
+		{
+		  "title"      : "Design+Code",
+		  "category"   : "articles",
+		  "url"        : "/articles/design-code/",
+		  "date"       : "2014-07-05 00:00:00 -0400",
+		  "shortdate"  : "July 05, 2014"
+		} ,
+	
+		{
+		  "title"      : "Leaving the Comfort Zone to Learn Computer Code",
+		  "category"   : "articles",
+		  "url"        : "/articles/leaving-the-comfort-zone/",
+		  "date"       : "2014-07-04 00:00:00 -0400",
+		  "shortdate"  : "July 04, 2014"
+		} ,
+	
+		{
+		  "title"      : "Volume B",
+		  "category"   : "articles",
+		  "url"        : "/articles/volume-b/",
+		  "date"       : "2014-07-03 00:00:00 -0400",
+		  "shortdate"  : "July 03, 2014"
+		} ,
+	
+		{
+		  "title"      : "A couple more",
+		  "category"   : "articles",
+		  "url"        : "/articles/a-couple-more/",
+		  "date"       : "2014-07-02 00:00:00 -0400",
+		  "shortdate"  : "July 02, 2014"
+		} ,
+	
+		{
+		  "title"      : "Hello World",
+		  "category"   : "articles",
+		  "url"        : "/articles/hello-world/",
+		  "date"       : "2014-07-01 00:00:00 -0400",
+		  "shortdate"  : "July 01, 2014"
+		} 
+	
+]
