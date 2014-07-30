@@ -21,7 +21,7 @@ Coding ? Next to nothing. Learning how to code ? Meh.
 It's hard to get into that mindset after all these years when I didn't have to do, or think about, any of these things. I'm from an era where Pascal was alive and C+ the new kid on the block. 8086 Assembler was a cool thing to know. I feel totally lost most of the time, and there's so much to do and learn. Also finding it much harder to concentrate on these subjects. It's the opposite of what I do these days and I can also very much feel the years that have gone by. It will not be easy, that's for sure.
 
 <figure>
-  <img src="http://guezota.github.com/images/Yo02.png" alt="image" width="250"/>
+  <img src="http://guezota.github.com/images/Yo02.png" alt="image" width="400"/>
   <figcaption><a href="http://www.justyo.co">Yo.</a></figcaption>
 </figure>
 
