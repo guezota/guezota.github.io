@@ -31,5 +31,3 @@ Another source of friendly tutorials is [swiftdevs.co](http://swiftdevs.co/) (no
 Bookmarked to read are Global Nerdy’s [collection of links and posts](http://www.globalnerdy.com/2014/06/03/swift-kick-resources-for-getting-started-with-the-swift-programming-language/), and [Jameson Quave](https://twitter.com/jquave)'s six-part [Developing iOS Apps Using Swift](http://jamesonquave.com/blog/developing-ios-apps-using-swift-tutorial/) Tutorial. If I get through these alive I’ll surprise even myself.
 
 Thanks to those youtube tutorials, there’s already a very simple app, with a webview. It’s not that great, but it sure feels good. I also managed to figure out how to get the app icon working, and realised I should probably also get to know xcode a little better before embarking on such a hard and long trip.
-
-:+1:
