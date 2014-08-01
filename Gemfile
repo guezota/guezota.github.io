@@ -8,6 +8,8 @@ gem 'thor'
 gem 'activesupport'
 gem 'stringex'
 
+gem 'jemoji'
+
 group :test do
   gem 'html-proofer'
 end
