@@ -4,13 +4,143 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="/" />
-<updated>2014-07-30T13:23:39-04:00</updated>
+<updated>2014-08-09T06:56:55-04:00</updated>
 <id>/</id>
 <author>
   <name>guezota</name>
   <uri>/</uri>
   <email>guezota@guezota.com</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Sublime Text]]></title>
+  <link rel="alternate" type="text/html" href="http://www.sublimetext.com"/>
+  <id>/articles/sublime</id>
+  <published>2014-08-03T17:00:00-04:00</published>
+  <updated>2014-08-03T17:00:00-04:00</updated>
+  <author>
+    <name>guezota</name>
+    <uri></uri>
+    <email>guezota@guezota.com</email>
+  </author>
+  <category scheme="/tags/#post" term="post" /><category scheme="/tags/#links" term="links" />
+  <content type="html">
+    &lt;p&gt;After trying a few other editors over the years, it was time to try Sublime Text, after all the good things I’ve heard about it. I did try Atom before that, for the GitHub integration, but found it a bit slow and wonky. I then found out &lt;a href=&quot;https://sublimegit.net&quot;&gt;SublimeGit&lt;/a&gt;, and that was that.  &lt;/p&gt;
+
+&lt;p&gt;And I was just getting started. Also available is &lt;a href=&quot;https://courses.tutsplus.com/courses/perfect-workflow-in-sublime-text-2/&quot;&gt;Perfect Workflow in Sublime Text 2&lt;/a&gt;, a bit old, and for Sublime Text 2, but it does show you the way around.  &lt;/p&gt;
+
+&lt;p&gt;Packages installed so far:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Package Control&lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;SublimeGit&lt;/td&gt;
+          &lt;td&gt;https://sublime.wbond.net/packages/SublimeGit&lt;/td&gt;
+          &lt;td&gt;https://sublimegit.net/&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;Evernote&lt;/td&gt;
+          &lt;td&gt;https://sublime.wbond.net/packages/Evernote&lt;/td&gt;
+          &lt;td&gt;https://github.com/bordaigorl/sublime-evernote&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;Gist&lt;/td&gt;
+          &lt;td&gt;https://sublime.wbond.net/packages/Gist&lt;/td&gt;
+          &lt;td&gt;https://github.com/condemil/Gist&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;Markdown Preview&lt;/td&gt;
+          &lt;td&gt;https://sublime.wbond.net/packages/Markdown%20Preview&lt;/td&gt;
+          &lt;td&gt;https://github.com/revolunet/sublimetext-markdown-preview&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;GitHub Tools&lt;/td&gt;
+          &lt;td&gt;https://sublime.wbond.net/packages/Github%20Tools&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;GitHub Color Theme&lt;/td&gt;
+          &lt;td&gt;https://sublime.wbond.net/packages/Github%20Color%20Theme&lt;/td&gt;
+          &lt;td&gt;https://github.com/AlexanderEkdahl/github-sublime-theme&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;Swift&lt;/td&gt;
+          &lt;td&gt;https://sublime.wbond.net/packages/Swift&lt;/td&gt;
+          &lt;td&gt;https://github.com/quiqueg/Swift-Sublime-Package&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Find all others here https://sublime.wbond.net and &lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;/articles/sublime/&quot;&gt;Sublime Text&lt;/a&gt; was originally published by guezota at &lt;a href=&quot;&quot;&gt;guezota&lt;/a&gt; on August 03, 2014.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Design with Swift]]></title>
+  <link rel="alternate" type="text/html" href="http://designcode.io/swift-design"/>
+  <id>/articles/swift-is-out</id>
+  <published>2014-07-31T14:25:00-04:00</published>
+  <updated>2014-07-31T14:25:00-04:00</updated>
+  <author>
+    <name>guezota</name>
+    <uri></uri>
+    <email>guezota@guezota.com</email>
+  </author>
+  <category scheme="/tags/#post" term="post" /><category scheme="/tags/#links" term="links" />
+  <content type="html">
+    &lt;blockquote&gt;
+  &lt;p&gt;Objective-C always felt like an alien language from the perspective of someone who’s never done iOS development. It’s bulky and long, but thanks to the expressive syntax and world-class documentation, I got used to it and even liked it. Still, that doesn’t change the fact that to new developers, it’s confusing and unfamiliar. Swift solves that. It’s a lot more approachable.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;When I first thought about actually doing something with my iOS developer’s annual fee and started looking for a way to get me started, everyone seemed to be pointing at &lt;a href=&quot;https://twitter.com/mengto&quot;&gt;Meng To&lt;/a&gt; and his &lt;a href=&quot;http://designcode.io&quot;&gt;amazing book&lt;/a&gt;. He had already announced the Swift chapter, and that took care of any doubt I might have had (I didn’t). A bit later the chapter is ready. Just like that, I have plans for this weekend.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;/articles/swift-is-out/&quot;&gt;Design with Swift&lt;/a&gt; was originally published by guezota at &lt;a href=&quot;&quot;&gt;guezota&lt;/a&gt; on July 31, 2014.&lt;/p&gt;
+  </content>
+</entry>
 
 
 <entry>
@@ -38,7 +168,7 @@
 &lt;p&gt;It’s hard to get into that mindset after all these years when I didn’t have to do, or think about, any of these things. I’m from an era where Pascal was alive and C+ the new kid on the block. 8086 Assembler was a cool thing to know. I feel totally lost most of the time, and there’s so much to do and learn. Also finding it much harder to concentrate on these subjects. It’s the opposite of what I do these days and I can also very much feel the years that have gone by. It will not be easy, that’s for sure.&lt;/p&gt;
 
 &lt;figure&gt;
-  &lt;img src=&quot;http://guezota.github.com/images/Yo02.png&quot; alt=&quot;image&quot; /&gt;
+  &lt;img src=&quot;http://guezota.github.com/images/Yo02.png&quot; alt=&quot;image&quot; width=&quot;400&quot; /&gt;
   &lt;figcaption&gt;&lt;a href=&quot;http://www.justyo.co&quot;&gt;Yo.&lt;/a&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -78,6 +208,31 @@
 &lt;p&gt;Getting to know XCode already feels like a big task to undertake, and that’s just one of the many many steps I’ll have to take. As I tend to get sidetracked a lot, and my attention span is now shorter than ever, this should be either fun or painful to watch.&lt;/p&gt;
 
     &lt;p&gt;&lt;a href=&quot;/articles/the-idea/&quot;&gt;The Idea&lt;/a&gt; was originally published by guezota at &lt;a href=&quot;&quot;&gt;guezota&lt;/a&gt; on July 30, 2014.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Teach yourself to code]]></title>
+  <link rel="alternate" type="text/html" href="http://teachyourselftocode.com"/>
+  <id>/articles/teach-yourself-to-code</id>
+  <updated>2014-07-04T00:00:00-00:00</updated>
+  <published>2014-07-30T00:00:00-04:00</published>
+  
+  <author>
+    <name>guezota</name>
+    <uri></uri>
+    <email>guezota@guezota.com</email>
+  </author>
+  <category scheme="/tags/#post" term="post" /><category scheme="/tags/#links" term="links" />
+  <content type="html">
+    &lt;blockquote&gt;
+  &lt;p&gt;Don’t believe people who say that learning to code is easy. Better to go in knowing that it’s hard and frustrating and that most of the time you will feel like you have no idea what you’re doing. There are a lot of people who will help you, at Meetups or on StackOverflow. But if you don’t know where to start, I made this site for you.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Thanks, &lt;a href=&quot;https://twitter.com/kraykray&quot;&gt;kraykray&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;/articles/teach-yourself-to-code/&quot;&gt;Teach yourself to code&lt;/a&gt; was originally published by guezota at &lt;a href=&quot;&quot;&gt;guezota&lt;/a&gt; on July 30, 2014.&lt;/p&gt;
   </content>
 </entry>
 

@@ -1,6 +1,22 @@
 [
 	
 		{
+		  "title"      : "Sublime Text",
+		  "category"   : "articles",
+		  "url"        : "/articles/sublime/",
+		  "date"       : "2014-08-03 17:00:00 -0400",
+		  "shortdate"  : "August 03, 2014"
+		} ,
+	
+		{
+		  "title"      : "Design with Swift",
+		  "category"   : "articles",
+		  "url"        : "/articles/swift-is-out/",
+		  "date"       : "2014-07-31 14:25:00 -0400",
+		  "shortdate"  : "July 31, 2014"
+		} ,
+	
+		{
 		  "title"      : "Vacaciones Coding",
 		  "category"   : "articles",
 		  "url"        : "/articles/vacaciones-coding/",
@@ -12,6 +28,14 @@
 		  "title"      : "The Idea",
 		  "category"   : "articles",
 		  "url"        : "/articles/the-idea/",
+		  "date"       : "2014-07-30 00:00:00 -0400",
+		  "shortdate"  : "July 30, 2014"
+		} ,
+	
+		{
+		  "title"      : "Teach yourself to code",
+		  "category"   : "articles",
+		  "url"        : "/articles/teach-yourself-to-code/",
 		  "date"       : "2014-07-30 00:00:00 -0400",
 		  "shortdate"  : "July 30, 2014"
 		} ,

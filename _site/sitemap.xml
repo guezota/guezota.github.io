@@ -48,11 +48,23 @@
 
     
     <url>
+        <loc>/articles/sublime/</loc>
+    </url>
+    
+    <url>
+        <loc>/articles/swift-is-out/</loc>
+    </url>
+    
+    <url>
         <loc>/articles/vacaciones-coding/</loc>
     </url>
     
     <url>
         <loc>/articles/the-idea/</loc>
+    </url>
+    
+    <url>
+        <loc>/articles/teach-yourself-to-code/</loc>
     </url>
     
     <url>

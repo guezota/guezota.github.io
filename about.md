@@ -22,6 +22,12 @@ You can find the real me on [Twitter](https://twitter.com/maique) and [GitHub](h
 
 ----
 
+###Colophon###
+
+Lovingly made with help from kind people like:
+
 Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the followup to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).  
 
-Avatar made with [**grimfrog's**](https://twitter.com/grimfrog) cool app [**Bitface**](https://itunes.apple.com/no/app/bitface-8-bit-avatar-creator/id687230250?mt=8).
+Hosted by [**GitHub Pages**](https://pages.github.com), powered by [**Jekyll**](http://jekyllrb.com).  
+
+Avatar made with [grimfrog's](https://twitter.com/grimfrog) cool app [**Bitface**](https://itunes.apple.com/no/app/bitface-8-bit-avatar-creator/id687230250?mt=8).
