@@ -4,13 +4,55 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="/" />
-<updated>2014-08-09T06:56:55-04:00</updated>
+<updated>2014-08-10T02:34:06-04:00</updated>
 <id>/</id>
 <author>
   <name>guezota</name>
   <uri>/</uri>
   <email>guezota@guezota.com</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Saturday of Fun]]></title>
+  <link rel="alternate" type="text/html" href="http://ruigaudencio.com"/>
+  <id>/articles/squarespace</id>
+  <published>2014-08-10T02:00:00-04:00</published>
+  <updated>2014-08-10T02:00:00-04:00</updated>
+  <author>
+    <name>guezota</name>
+    <uri></uri>
+    <email>guezota@guezota.com</email>
+  </author>
+  <category scheme="/tags/#post" term="post" /><category scheme="/tags/#links" term="links" />
+  <content type="html">
+    &lt;p&gt;There’s not a lot to see, at the moment, but we’ve set the foundations for what’s to come.  &lt;/p&gt;
+
+&lt;p&gt;A friend needed help with a website. He wanted a domain registered, he wanted to host it at Squarespace, and he also needed the domain to have a mail account associated with it.&lt;/p&gt;
+
+&lt;p&gt;It should have been an easy thing but, before we started the day, this is the situation we had to work with:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The domain was already registered, by us, a long time ago&lt;/li&gt;
+  &lt;li&gt;Hosting was handled by DreamHost, with a Wordpress install serving a very generic site&lt;/li&gt;
+  &lt;li&gt;Mail was set up at Google, but not being used and the password long forgotten&lt;/li&gt;
+  &lt;li&gt;There was also an account already set up at Squarespace, ready to receive the new site&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;All we had to do was:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Upgrade the &lt;a href=&quot;http://www.squarespace.com&quot;&gt;Squarespace&lt;/a&gt; account&lt;/li&gt;
+  &lt;li&gt;Go to &lt;a href=&quot;http://www.dreamhost.com&quot;&gt;DreamHost&lt;/a&gt; and redirect the site to Squarespace &lt;/li&gt;
+  &lt;li&gt;Open a new &lt;a href=&quot;https://www.fastmail.fm&quot;&gt;Fastmail.fm&lt;/a&gt; account and set it up to handle the domain’s mail&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Going back and forth, adding CNAME records, and MX records and whatnot, waiting for the dreaded DNS propagation, we had a busy afternoon.
+A couple of hours and hundred dollars later, we had the thing up and running.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;/articles/squarespace/&quot;&gt;Saturday of Fun&lt;/a&gt; was originally published by guezota at &lt;a href=&quot;&quot;&gt;guezota&lt;/a&gt; on August 10, 2014.&lt;/p&gt;
+  </content>
+</entry>
 
 
 <entry>
@@ -30,89 +72,22 @@
 
 &lt;p&gt;And I was just getting started. Also available is &lt;a href=&quot;https://courses.tutsplus.com/courses/perfect-workflow-in-sublime-text-2/&quot;&gt;Perfect Workflow in Sublime Text 2&lt;/a&gt;, a bit old, and for Sublime Text 2, but it does show you the way around.  &lt;/p&gt;
 
+&lt;p&gt;(…)&lt;/p&gt;
+
 &lt;p&gt;Packages installed so far:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Package Control&lt;/li&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;SublimeGit&lt;/td&gt;
-          &lt;td&gt;https://sublime.wbond.net/packages/SublimeGit&lt;/td&gt;
-          &lt;td&gt;https://sublimegit.net/&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;Evernote&lt;/td&gt;
-          &lt;td&gt;https://sublime.wbond.net/packages/Evernote&lt;/td&gt;
-          &lt;td&gt;https://github.com/bordaigorl/sublime-evernote&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;Gist&lt;/td&gt;
-          &lt;td&gt;https://sublime.wbond.net/packages/Gist&lt;/td&gt;
-          &lt;td&gt;https://github.com/condemil/Gist&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;Markdown Preview&lt;/td&gt;
-          &lt;td&gt;https://sublime.wbond.net/packages/Markdown%20Preview&lt;/td&gt;
-          &lt;td&gt;https://github.com/revolunet/sublimetext-markdown-preview&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;GitHub Tools&lt;/td&gt;
-          &lt;td&gt;https://sublime.wbond.net/packages/Github%20Tools&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;GitHub Color Theme&lt;/td&gt;
-          &lt;td&gt;https://sublime.wbond.net/packages/Github%20Color%20Theme&lt;/td&gt;
-          &lt;td&gt;https://github.com/AlexanderEkdahl/github-sublime-theme&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;Swift&lt;/td&gt;
-          &lt;td&gt;https://sublime.wbond.net/packages/Swift&lt;/td&gt;
-          &lt;td&gt;https://github.com/quiqueg/Swift-Sublime-Package&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
+  &lt;li&gt;SublimeGit . &lt;a href=&quot;https://sublime.wbond.net/packages/SublimeGit&quot;&gt;https://sublime.wbond.net/packages/SublimeGit&lt;/a&gt; . &lt;a href=&quot;https://sublimegit.net/&quot;&gt;https://sublimegit.net/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Evernote . &lt;a href=&quot;https://sublime.wbond.net/packages/Evernote&quot;&gt;https://sublime.wbond.net/packages/Evernote&lt;/a&gt; . &lt;a href=&quot;https://github.com/bordaigorl/sublime-evernote&quot;&gt;https://github.com/bordaigorl/sublime-evernote&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Gist . &lt;a href=&quot;https://sublime.wbond.net/packages/Gist&quot;&gt;https://sublime.wbond.net/packages/Gist&lt;/a&gt; . &lt;a href=&quot;https://github.com/condemil/Gist&quot;&gt;https://github.com/condemil/Gist&lt;/a&gt; . &lt;/li&gt;
+  &lt;li&gt;Markdown Preview . &lt;a href=&quot;https://sublime.wbond.net/packages/Markdown%20Preview&quot;&gt;https://sublime.wbond.net/packages/Markdown%20Preview&lt;/a&gt; . &lt;a href=&quot;https://github.com/revolunet/sublimetext-markdown-preview&quot;&gt;https://github.com/revolunet/sublimetext-markdown-preview&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;GitHub Tools . &lt;a href=&quot;https://sublime.wbond.net/packages/Github%20Tools&quot;&gt;https://sublime.wbond.net/packages/Github%20Tools&lt;/a&gt; . &lt;/li&gt;
+  &lt;li&gt;GitHub Color Theme . &lt;a href=&quot;https://sublime.wbond.net/packages/Github%20Color%20Theme&quot;&gt;https://sublime.wbond.net/packages/Github%20Color%20Theme&lt;/a&gt; . &lt;a href=&quot;https://github.com/AlexanderEkdahl/github-sublime-theme&quot;&gt;https://github.com/AlexanderEkdahl/github-sublime-theme&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Swift . &lt;a href=&quot;https://sublime.wbond.net/packages/Swift&quot;&gt;https://sublime.wbond.net/packages/Swift&lt;/a&gt; . &lt;a href=&quot;https://github.com/quiqueg/Swift-Sublime-Package&quot;&gt;https://github.com/quiqueg/Swift-Sublime-Package&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Find all others here https://sublime.wbond.net and &lt;/p&gt;
+&lt;p&gt;Find all others here &lt;a href=&quot;https://sublime.wbond.net&quot;&gt;https://sublime.wbond.net&lt;/a&gt;&lt;/p&gt;
 
     &lt;p&gt;&lt;a href=&quot;/articles/sublime/&quot;&gt;Sublime Text&lt;/a&gt; was originally published by guezota at &lt;a href=&quot;&quot;&gt;guezota&lt;/a&gt; on August 03, 2014.&lt;/p&gt;
   </content>

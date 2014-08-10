@@ -1,6 +1,14 @@
 [
 	
 		{
+		  "title"      : "Saturday of Fun",
+		  "category"   : "articles",
+		  "url"        : "/articles/squarespace/",
+		  "date"       : "2014-08-10 02:00:00 -0400",
+		  "shortdate"  : "August 10, 2014"
+		} ,
+	
+		{
 		  "title"      : "Sublime Text",
 		  "category"   : "articles",
 		  "url"        : "/articles/sublime/",
