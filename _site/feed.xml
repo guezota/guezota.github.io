@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="/" />
-<updated>2014-08-10T02:34:06-04:00</updated>
+<updated>2014-08-12T12:19:57+01:00</updated>
 <id>/</id>
 <author>
   <name>guezota</name>
@@ -14,17 +14,94 @@
 
 
 <entry>
-  <title type="html"><![CDATA[Saturday of Fun]]></title>
-  <link rel="alternate" type="text/html" href="http://ruigaudencio.com"/>
-  <id>/articles/squarespace</id>
-  <published>2014-08-10T02:00:00-04:00</published>
-  <updated>2014-08-10T02:00:00-04:00</updated>
+  <title type="html"><![CDATA[Editorial]]></title>
+  <link rel="alternate" type="text/html" href="/articles/editorial/"/>
+  <id>/articles/editorial</id>
+  <published>2014-08-12T13:30:00+01:00</published>
+  <updated>2014-08-12T13:30:00+01:00</updated>
   <author>
     <name>guezota</name>
     <uri></uri>
     <email>guezota@guezota.com</email>
   </author>
-  <category scheme="/tags/#post" term="post" /><category scheme="/tags/#links" term="links" />
+  <category scheme="/tags/#post" term="post" />
+  <content type="html">
+    &lt;p&gt;Now that I’ve made up my mind, again, and decided to post nerdier stuff over here, there’s a few things I’d like to test. Today I’m importing a couple of posts from the close-to-abandoned &lt;a href=&quot;http://b.xanato.net&quot;&gt;bSides&lt;/a&gt;. It’s been left to die at Tumblr, maybe the move will revive it.  &lt;/p&gt;
+
+&lt;p&gt;First one, Editorial. I use this one a lot on the iPad, and posted &lt;a href=&quot;http://b.xanato.net/post/58684743283/editorial&quot;&gt;this&lt;/a&gt; over at bSides a year ago. It still stands.  &lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p&gt;I&amp;#39;ve added a collection of some useful workflows to the Editorial website. Enjoy! &lt;a href=&quot;http://t.co/ZxzL9Y9GCU&quot;&gt;http://t.co/ZxzL9Y9GCU&lt;/a&gt;&lt;/p&gt;&amp;mdash; Ole Zorn (@olemoritz) &lt;a href=&quot;https://twitter.com/olemoritz/statuses/368743932105990144&quot;&gt;August 17, 2013&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Having a ton of fun with &lt;a href=&quot;http://omz-software.com/editorial/&quot;&gt;Editorial&lt;/a&gt; and it all started with this giant review by Mr &lt;a href=&quot;https://twitter.com/viticci&quot;&gt;Viticci&lt;/a&gt; - &lt;a href=&quot;http://www.macstories.net/stories/editorial-for-ipad-review/&quot;&gt;Reinventing iOS Automation: Editorial Review&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;/articles/editorial/&quot;&gt;Editorial&lt;/a&gt; was originally published by guezota at &lt;a href=&quot;&quot;&gt;guezota&lt;/a&gt; on August 12, 2014.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Yo, again]]></title>
+  <link rel="alternate" type="text/html" href="/articles/yo-again/"/>
+  <id>/articles/yo-again</id>
+  <published>2014-08-12T12:08:00+01:00</published>
+  <updated>2014-08-12T12:08:00+01:00</updated>
+  <author>
+    <name>guezota</name>
+    <uri></uri>
+    <email>guezota@guezota.com</email>
+  </author>
+  <category scheme="/tags/#post" term="post" />
+  <content type="html">
+    &lt;p&gt;&lt;a href=&quot;http://www.justyo.co&quot;&gt;Yo&lt;/a&gt; just got updated. Yo!  &lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;a href=&quot;http://www.yoindex.com&quot;&gt;&lt;img src=&quot;http://guezota.github.com/images/yo-index.png&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;
+	&lt;figcaption&gt;&lt;a href=&quot;http://www.yoindex.com&quot;&gt;Yo Index&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Test post, to check if my feed updates are going through &lt;a href=&quot;http://rssyo.com&quot;&gt;RSS 2 Yo&lt;/a&gt;’s service, and Yo-ing people left and right as soon as there’s an update over here.  &lt;/p&gt;
+
+&lt;p&gt;As I was saying, Yo just got an update, and there’s a couple of new features with it: you can now show an avatar and real name, that shows up when people swipe your user, and you can also send a Yo to a hashtag, and check if it &lt;a href=&quot;http://www.justyo.co/trending/&quot;&gt;trends&lt;/a&gt; or not… Meh.  &lt;/p&gt;
+
+&lt;p&gt;What I find useful is the &lt;a href=&quot;http://www.yoindex.com&quot;&gt;Yo Index&lt;/a&gt;, a repository of available Yo services. It keeps growing. You can even get a Yo every time it gets a new service added. Try &lt;a href=&quot;http://www.justyo.co/YOINDEX/&quot;&gt;sending it a Yo&lt;/a&gt;…  &lt;/p&gt;
+
+&lt;p&gt;If, by any chance, you’d like to get a Yo when guezota.github.io has something new, feel free to &lt;a href=&quot;http://www.justyo.co/GUEZOTA/&quot;&gt;Yo me&lt;/a&gt;.  &lt;/p&gt;
+
+&lt;p&gt;Enjoy.  &lt;/p&gt;
+
+&lt;div id=&quot;yo-button&quot;&gt;&lt;/div&gt;
+
+&lt;script type=&quot;text/javascript&quot;&gt;
+
+	var _yoData = {
+		&quot;username&quot;: &quot;GUEZOTA&quot;,
+		&quot;trigger&quot;: &quot;guezota.github.io updated ? Yo!&quot;
+	};
+	var s = document.createElement(&quot;script&quot;);
+	s.type = &quot;text/javascript&quot;;
+	s.src = &quot;//yoapp.s3.amazonaws.com/js/yo-button.js&quot;;
+	(document.head || document.getElementsByTagName(&quot;head&quot;)[0]).appendChild(s);
+&lt;/script&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;/articles/yo-again/&quot;&gt;Yo, again&lt;/a&gt; was originally published by guezota at &lt;a href=&quot;&quot;&gt;guezota&lt;/a&gt; on August 12, 2014.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Saturday of Fun]]></title>
+  <link rel="alternate" type="text/html" href="/articles/squarespace/"/>
+  <id>/articles/squarespace</id>
+  <published>2014-08-10T07:00:00+01:00</published>
+  <updated>2014-08-10T07:00:00+01:00</updated>
+  <author>
+    <name>guezota</name>
+    <uri></uri>
+    <email>guezota@guezota.com</email>
+  </author>
+  <category scheme="/tags/#post" term="post" />
   <content type="html">
     &lt;p&gt;There’s not a lot to see, at the moment, but we’ve set the foundations for what’s to come.  &lt;/p&gt;
 
@@ -48,7 +125,8 @@
 &lt;/ul&gt;
 
 &lt;p&gt;Going back and forth, adding CNAME records, and MX records and whatnot, waiting for the dreaded DNS propagation, we had a busy afternoon.
-A couple of hours and hundred dollars later, we had the thing up and running.&lt;/p&gt;
+A couple of hours and hundred dollars later, we had &lt;a href=&quot;http://ruigaudencio.com&quot;&gt;the thing&lt;/a&gt; up and running.&lt;br /&gt;
+There’s not a lot to see, yet. Hopefully there will be, soon.&lt;/p&gt;
 
     &lt;p&gt;&lt;a href=&quot;/articles/squarespace/&quot;&gt;Saturday of Fun&lt;/a&gt; was originally published by guezota at &lt;a href=&quot;&quot;&gt;guezota&lt;/a&gt; on August 10, 2014.&lt;/p&gt;
   </content>
@@ -59,8 +137,8 @@ A couple of hours and hundred dollars later, we had the thing up and running.&lt
   <title type="html"><![CDATA[Sublime Text]]></title>
   <link rel="alternate" type="text/html" href="http://www.sublimetext.com"/>
   <id>/articles/sublime</id>
-  <published>2014-08-03T17:00:00-04:00</published>
-  <updated>2014-08-03T17:00:00-04:00</updated>
+  <published>2014-08-03T22:00:00+01:00</published>
+  <updated>2014-08-03T22:00:00+01:00</updated>
   <author>
     <name>guezota</name>
     <uri></uri>
@@ -98,8 +176,8 @@ A couple of hours and hundred dollars later, we had the thing up and running.&lt
   <title type="html"><![CDATA[Design with Swift]]></title>
   <link rel="alternate" type="text/html" href="http://designcode.io/swift-design"/>
   <id>/articles/swift-is-out</id>
-  <published>2014-07-31T14:25:00-04:00</published>
-  <updated>2014-07-31T14:25:00-04:00</updated>
+  <published>2014-07-31T19:25:00+01:00</published>
+  <updated>2014-07-31T19:25:00+01:00</updated>
   <author>
     <name>guezota</name>
     <uri></uri>
@@ -123,7 +201,7 @@ A couple of hours and hundred dollars later, we had the thing up and running.&lt
   <link rel="alternate" type="text/html" href="/articles/vacaciones-coding/"/>
   <id>/articles/vacaciones-coding</id>
   <updated>2014-07-31T00:00:00-00:00</updated>
-  <published>2014-07-31T00:00:00-04:00</published>
+  <published>2014-07-31T00:00:00+01:00</published>
   
   <author>
     <name>guezota</name>
@@ -163,7 +241,7 @@ A couple of hours and hundred dollars later, we had the thing up and running.&lt
   <link rel="alternate" type="text/html" href="/articles/the-idea/"/>
   <id>/articles/the-idea</id>
   <updated>2014-07-30T00:00:00-00:00</updated>
-  <published>2014-07-30T00:00:00-04:00</published>
+  <published>2014-07-30T00:00:00+01:00</published>
   
   <author>
     <name>guezota</name>
@@ -192,7 +270,7 @@ A couple of hours and hundred dollars later, we had the thing up and running.&lt
   <link rel="alternate" type="text/html" href="http://teachyourselftocode.com"/>
   <id>/articles/teach-yourself-to-code</id>
   <updated>2014-07-04T00:00:00-00:00</updated>
-  <published>2014-07-30T00:00:00-04:00</published>
+  <published>2014-07-30T00:00:00+01:00</published>
   
   <author>
     <name>guezota</name>
@@ -217,7 +295,7 @@ A couple of hours and hundred dollars later, we had the thing up and running.&lt
   <link rel="alternate" type="text/html" href="http://designcode.io/learn"/>
   <id>/articles/weekly-inspiration</id>
   <updated>2014-07-29T00:00:00-00:00</updated>
-  <published>2014-07-29T00:00:00-04:00</published>
+  <published>2014-07-29T00:00:00+01:00</published>
   
   <author>
     <name>guezota</name>
@@ -240,7 +318,7 @@ A couple of hours and hundred dollars later, we had the thing up and running.&lt
   <link rel="alternate" type="text/html" href="/articles/migration-done/"/>
   <id>/articles/migration-done</id>
   <updated>2014-07-29T00:00:00-00:00</updated>
-  <published>2014-07-29T00:00:00-04:00</published>
+  <published>2014-07-29T00:00:00+01:00</published>
   
   <author>
     <name>guezota</name>
@@ -283,7 +361,7 @@ A couple of hours and hundred dollars later, we had the thing up and running.&lt
   <link rel="alternate" type="text/html" href="/articles/sketch-done/"/>
   <id>/articles/sketch-done</id>
   <updated>2014-07-06T00:00:00-00:00</updated>
-  <published>2014-07-06T00:00:00-04:00</published>
+  <published>2014-07-06T00:00:00+01:00</published>
   
   <author>
     <name>guezota</name>
@@ -310,7 +388,7 @@ I am now fully equipped.&lt;/p&gt;
   <link rel="alternate" type="text/html" href="/articles/design-code-done/"/>
   <id>/articles/design-code-done</id>
   <updated>2014-07-06T00:00:00-00:00</updated>
-  <published>2014-07-06T00:00:00-04:00</published>
+  <published>2014-07-06T00:00:00+01:00</published>
   
   <author>
     <name>guezota</name>
@@ -339,7 +417,7 @@ Can’t wait to dive in and start learning.&lt;/p&gt;
   <link rel="alternate" type="text/html" href="/articles/design-code/"/>
   <id>/articles/design-code</id>
   <updated>2014-07-05T00:00:00-00:00</updated>
-  <published>2014-07-05T00:00:00-04:00</published>
+  <published>2014-07-05T00:00:00+01:00</published>
   
   <author>
     <name>guezota</name>
@@ -349,7 +427,7 @@ Can’t wait to dive in and start learning.&lt;/p&gt;
   <category scheme="/tags/#post" term="post" />
   <content type="html">
     &lt;figure&gt;
-	&lt;a href=&quot;http://designcode.io/&quot;&gt;&lt;img src=&quot;http://guezota.github.com/images/designcode.png&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;
+	&lt;img src=&quot;http://guezota.github.com/images/designcode.png&quot; alt=&quot;image&quot; /&gt;
 	&lt;figcaption&gt;&lt;a href=&quot;http://designcode.io/&quot;&gt;Design+Code.&lt;/a&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -369,7 +447,7 @@ Can’t wait to dive in and start learning.&lt;/p&gt;
   <link rel="alternate" type="text/html" href="http://www.nytimes.com/2014/03/25/your-money/leaving-the-comfort-zone-to-learn-computer-code.html"/>
   <id>/articles/leaving-the-comfort-zone</id>
   <updated>2014-07-04T00:00:00-00:00</updated>
-  <published>2014-07-04T00:00:00-04:00</published>
+  <published>2014-07-04T00:00:00+01:00</published>
   
   <author>
     <name>guezota</name>
@@ -392,7 +470,7 @@ Can’t wait to dive in and start learning.&lt;/p&gt;
   <link rel="alternate" type="text/html" href="/articles/volume-b/"/>
   <id>/articles/volume-b</id>
   <updated>2014-07-03T00:00:00-00:00</updated>
-  <published>2014-07-03T00:00:00-04:00</published>
+  <published>2014-07-03T00:00:00+01:00</published>
   
   <author>
     <name>guezota</name>
@@ -415,7 +493,7 @@ Can’t wait to dive in and start learning.&lt;/p&gt;
   <link rel="alternate" type="text/html" href="/articles/a-couple-more/"/>
   <id>/articles/a-couple-more</id>
   <updated>2014-07-02T00:00:00-00:00</updated>
-  <published>2014-07-02T00:00:00-04:00</published>
+  <published>2014-07-02T00:00:00+01:00</published>
   
   <author>
     <name>guezota</name>
@@ -443,7 +521,7 @@ Can’t wait to dive in and start learning.&lt;/p&gt;
   <link rel="alternate" type="text/html" href="/articles/hello-world/"/>
   <id>/articles/hello-world</id>
   <updated>2014-07-01T00:00:00-00:00</updated>
-  <published>2014-07-01T00:00:00-04:00</published>
+  <published>2014-07-01T00:00:00+01:00</published>
   
   <author>
     <name>guezota</name>
