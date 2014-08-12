@@ -1,6 +1,14 @@
 [
 	
 		{
+		  "title"      : "Apple Maps",
+		  "category"   : "articles",
+		  "url"        : "/articles/apple-maps/",
+		  "date"       : "2014-08-12 13:40:00 +0100",
+		  "shortdate"  : "August 12, 2014"
+		} ,
+	
+		{
 		  "title"      : "Editorial",
 		  "category"   : "articles",
 		  "url"        : "/articles/editorial/",

@@ -4,13 +4,50 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="/" />
-<updated>2014-08-12T12:19:57+01:00</updated>
+<updated>2014-08-12T12:50:33+01:00</updated>
 <id>/</id>
 <author>
   <name>guezota</name>
   <uri>/</uri>
   <email>guezota@guezota.com</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Apple Maps]]></title>
+  <link rel="alternate" type="text/html" href="/articles/apple-maps/"/>
+  <id>/articles/apple-maps</id>
+  <published>2014-08-12T13:40:00+01:00</published>
+  <updated>2014-08-12T13:40:00+01:00</updated>
+  <author>
+    <name>guezota</name>
+    <uri></uri>
+    <email>guezota@guezota.com</email>
+  </author>
+  <category scheme="/tags/#post" term="post" />
+  <content type="html">
+    &lt;p&gt;Another issue I’ve had for quite some time: Apple Maps. I’d love to love them, but they make that really hard. A year ago, while we were on a &lt;a href=&quot;https://www.flickr.com/photos/maique/sets/72157635055841723/&quot;&gt;miniTugaTour&lt;/a&gt;, we came across the Alqueva Dam and Lake.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;One of the largest dams and artificial lakes (250 km2) in Western Europe.
+– &lt;a href=&quot;https://en.wikipedia.org/wiki/Alqueva_dam&quot;&gt;Wikipedia&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It’s been ready since 2002, lake full over two years ago. I couldn’t believe Apple Maps was so so lost, when the roads were gone, underwater, and we were still being asked to drive there. When we were back home, a &lt;a href=&quot;http://b.xanato.net/post/58527186469/a-little-rant-about-apple-maps-how-can-apple-miss&quot;&gt;quick post&lt;/a&gt; went up.  &lt;/p&gt;
+
+&lt;p&gt;A year has gone by, the dam is still there, the water very much so as well. Has Apple Maps fixed this one in the mean time ? Hmmm ? Maybe getting ready for iOS 8 and Yosemite ?  &lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+	&lt;img src=&quot;http://guezota.github.io/images/apple-maps-alqueva-sat.png&quot; alt=&quot;sat&quot; /&gt;
+	&lt;img src=&quot;http://guezota.github.io/images/apple-maps-alqueva-map.png&quot; alt=&quot;map&quot; /&gt;
+	&lt;figcaption&gt;Same app, different views.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Can’t say they have. Amazingly they have it right on the satelite view, and still soooo wrong on the actual map view. I guess it’s back to &lt;a href=&quot;https://www.sygic.com/en&quot;&gt;Sygic&lt;/a&gt; for now.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;/articles/apple-maps/&quot;&gt;Apple Maps&lt;/a&gt; was originally published by guezota at &lt;a href=&quot;&quot;&gt;guezota&lt;/a&gt; on August 12, 2014.&lt;/p&gt;
+  </content>
+</entry>
 
 
 <entry>
