@@ -10,7 +10,7 @@ share: true
 ---
 
 <figure>
-	<a href="http://designcode.io/"><img src="http://guezota.github.com/images/designcode.png" alt="image" /></a>
+	<img src="http://guezota.github.com/images/designcode.png" alt="image" />
 	<figcaption><a href="http://designcode.io/">Design+Code.</a></figcaption>
 </figure>
 
