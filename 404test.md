@@ -1,0 +1,19 @@
+---
+layout: page
+title: "404"
+description: "Page not found."
+image:
+  feature: 404-pig.jpg
+  credit: Maique Madeira
+  creditlink: http://maiquemadeira.com
+---  
+
+Oops! Sorry about that, looks like something went missing --- Maybe you can try going [home](http://guezota.github.io), or [contact me](http://twitter.com/guezota) if you feel like it
+
+<script type="text/javascript">
+  var GOOG_FIXURL_LANG = 'en';
+  var GOOG_FIXURL_SITE = '{{ site.url }}'
+</script>
+<script type="text/javascript"
+  src="http://linkhelp.clients.google.com/tbproxy/lh/wm/fixurl.js">
+</script>
