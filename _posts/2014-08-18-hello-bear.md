@@ -12,7 +12,7 @@ share: true
 I was a happy user of [Unblock-us](https://www.unblock-us.com) for a loooong time. But I've been using it less and less, I can't find the time to keep up with the latest on Hulu. I've kept the account around, paying for it every month, because it really is a great service, and a cheap one at that. It worked without a glitch for as long as I've been a user, and I've recommended it to a lot of people. Even if I just watched 30 minutes of some series a month, I couldn't bring myself to cancel the account.   
 
 <figure>
-	<img src="http://guezota.github.com/images/tunnel-bear-ios.png" width="250" />
+	<img src="http://guezota.github.com/images/tunnel-bear-ios.png" width="500" />
 	<figcaption>Current status: Bear Protected!</figcaption>
 </figure>
 
