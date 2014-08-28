@@ -10,10 +10,6 @@
     </url>
     
     <url>
-        <loc>/404test.html</loc>
-    </url>
-    
-    <url>
         <loc>/about/</loc>
     </url>
     
@@ -50,6 +46,10 @@
     </url>
     
 
+    
+    <url>
+        <loc>/articles/hello-bear/</loc>
+    </url>
     
     <url>
         <loc>/articles/apple-maps/</loc>

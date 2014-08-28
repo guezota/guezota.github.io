@@ -1,6 +1,14 @@
 [
 	
 		{
+		  "title"      : "Hello, TunnelBear",
+		  "category"   : "articles",
+		  "url"        : "/articles/hello-bear/",
+		  "date"       : "2014-08-28 15:00:00 +0100",
+		  "shortdate"  : "August 28, 2014"
+		} ,
+	
+		{
 		  "title"      : "Apple Maps",
 		  "category"   : "articles",
 		  "url"        : "/articles/apple-maps/",
