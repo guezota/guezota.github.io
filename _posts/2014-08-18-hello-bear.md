@@ -41,3 +41,10 @@ At the moment you can pick from the following location list, but can also cast a
 Price-wise I picked a Grizzly, as I prefer the cheaper yearly plans, and not having to worry about paying every month. It's still on the same ballpark as the old VPN, but you can [test the system for free](https://www.tunnelbear.com/pricing/). The free Little Bear will help you get acquainted with the service, and has a 500MB cap. You can easily add a full GB to that every month, [with a tweet](https://www.tunnelbear.com/twitter-promo/).  
 
 If you decide to try it out, and I see no reason why you should not want to keep your stuff private, and you like to help test stuff, pay the [Science Division](https://www.tunnelbear.com/volunteer/) a visit.  
+
+UPDATE: I can now occasionally pretend that I'm in Tokyo.  
+
+<figure>
+	<img src="http://cl.ly/image/0V1S2x3o0c00/guezota-tokyo.png"/>
+	<figcaption><a href="https://twitter.com/guezota/status/505157239397572608">Travelling at the speed of light!</a></figcaption>
+</figure>
