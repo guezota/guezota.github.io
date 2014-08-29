@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GitHub Swag
+title: Octopackage
 description: "Any GitHub fans out there ?"
 date: 2014-08-29 17:00:00
 category: articles
