@@ -48,6 +48,10 @@
 
     
     <url>
+        <loc>/articles/octo-package/</loc>
+    </url>
+    
+    <url>
         <loc>/articles/hello-bear/</loc>
     </url>
     

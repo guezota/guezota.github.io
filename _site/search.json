@@ -1,6 +1,14 @@
 [
 	
 		{
+		  "title"      : "GitHub Swag",
+		  "category"   : "articles",
+		  "url"        : "/articles/octo-package/",
+		  "date"       : "2014-08-29 18:00:00 +0100",
+		  "shortdate"  : "August 29, 2014"
+		} ,
+	
+		{
 		  "title"      : "Hello, TunnelBear",
 		  "category"   : "articles",
 		  "url"        : "/articles/hello-bear/",
